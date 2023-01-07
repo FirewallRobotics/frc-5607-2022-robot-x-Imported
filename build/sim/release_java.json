@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project frc-5607-2022-robot-x-Imported)",
+    "extensions": [
+      {
+        "name": "Sim DriverStation",
+        "libName": "/Users/terryphillips/Documents/GitHub/frc-5607-2022-robot-x-Imported/build/jni/release/libhalsim_ds_socket.dylib",
+        "defaultEnabled": false
+      },
+      {
+        "name": "Sim GUI",
+        "libName": "/Users/terryphillips/Documents/GitHub/frc-5607-2022-robot-x-Imported/build/jni/release/libhalsim_gui.dylib",
+        "defaultEnabled": true
+      }
+    ],
+    "environment": {},
+    "libraryDir": "/Users/terryphillips/Documents/GitHub/frc-5607-2022-robot-x-Imported/build/jni/release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
