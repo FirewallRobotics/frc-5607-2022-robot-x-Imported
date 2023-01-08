@@ -36,4 +36,3 @@ jobs:
     # Runs a single command using the runners shell
     - name: Compile and run tests on robot code
       run: ./gradlew build
-    # Steps represent a sequence of tasks that will be executed as part of the job
