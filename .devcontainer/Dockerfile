@@ -22,4 +22,5 @@ RUN echo "source /root/.sdkman/bin/sdkman-init.sh" >> /root/.bashrc
 # Install WPILib
 RUN wget https://github.com/wpilibsuite/allwpilib/releases/download/v2023.1.1/WPILib_Linux-2023.1.1.tar.gz -O wpilib.tar.gz
 RUN mkdir -p /root/wpilib/2023
+RUN mkdir -p /root/workspace
 RUN tar -zxvf wpilib.tar.gz -C /root/wpilib/2023
