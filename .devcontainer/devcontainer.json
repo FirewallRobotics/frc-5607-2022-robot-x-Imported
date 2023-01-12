@@ -22,9 +22,9 @@
       // Needed extensions for using WPILib
       "redhat.java",
       "ms-vscode.cpptools",
-      "vscjava.vscode-java-pack",
+      "vscjava.vscode-java-pack"//,
 
       // The WPILib extension itself
-      "wpilibsuite.vscode-wpilib"
+      //"wpilibsuite.vscode-wpilib"
   ]
 }
